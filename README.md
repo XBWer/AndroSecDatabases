@@ -1,3 +1,6 @@
+MSR'15 Data Paper : A Dataset of Open-Source Android Applications
+Homepage : http://androsec.rit.edu/
+
 There are several items in this directory:
 
 - ManifestFiles.zip
